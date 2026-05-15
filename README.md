@@ -1,4 +1,14 @@
-腾讯云 EdgeOne Pages KV-only 部署说明
+##  腾讯云 EdgeOne Pages KV-only 部署说明
+
+![示意图](img/1.jpg)
+![示意图](img/2.jpg)
+![示意图](img/3.jpg)
+![示意图](img/4.jpg)
+![示意图](img/5.jpg)
+![示意图](img/6.jpg)
+![示意图](img/7.jpg)
+![示意图](img/8.jpg)
+
 本包是“旭儿综合网站”的 腾讯云 EdgeOne Pages KV-only 专用版本。
 它只使用 EdgeOne Pages KV，不依赖 Blob、COS、数据库或其他对象存储。
 一、代码结构
@@ -158,4 +168,4 @@ edge-functions/index.js
 ```text
 edge-functions/[[default]].js
 ```
-是否被完整上传。
+
