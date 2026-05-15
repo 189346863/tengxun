@@ -1,0 +1,9 @@
+{
+  "name": "edgeone-pages-kv-only-xuer-nav",
+  "version": "1.0.0",
+  "private": true,
+  "description": "腾讯云 EdgeOne Pages KV-only 版旭儿综合网站",
+  "scripts": {
+    "check": "node --check edge-functions/[[default]].js"
+  }
+}
